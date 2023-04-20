@@ -1,9 +1,10 @@
+/*
+此源码是基于 Dimension 的二次修改
+Github：https://github.com/nianbroken/Personal_Sakura_Guide_Page
+Gitee：https://gitee.com/nianbroken/Personal_Sakura_Guide_Page
+*/
 (function($) {
 
-	/**
-	 * Generate an indented list of links from a nav. Meant for use with panel().
-	 * @return {jQuery} jQuery object.
-	 */
 	$.fn.navList = function() {
 
 		var	$this = $(this);
